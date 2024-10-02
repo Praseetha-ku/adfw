@@ -1,0 +1,56 @@
+$primay:white;
+$secondary:#00000026;
+h2{
+font-family: Isidora Sans;
+font-size: 54px;
+font-weight: 500;
+line-height: 61px;
+text-align: center;
+color: #FFFFFF;
+
+
+}
+.span-h2
+{
+font-family: Isidora Sans;
+font-size: 54px;
+font-weight: 700;
+line-height: 61px;
+text-align: center;
+color:  blue;
+
+}
+.days{
+    font-family: Isidora Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.99px;
+    text-align: left;
+    margin: 50px;
+    
+}
+.daysspan{
+    font-family: Isidora Sans;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 27.59px;
+    text-align: left;
+    margin: 10px;
+}
+.logo1{
+width: 190.47px;
+height: 63.7px;
+top: 25px;
+gap: 0px;
+opacity: 0px;
+
+}
+.heads
+{
+display:flex;
+}
+.levels{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+}

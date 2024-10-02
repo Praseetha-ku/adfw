@@ -1,0 +1,11 @@
+
+@use "./bootstrap.scss" as variable;
+
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+.bg-primary{
+    background-color:variable.$primay !important;
+    }
+    .logo{
+        width:100px;
+        height:50px;
+    }

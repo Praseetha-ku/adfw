@@ -1,0 +1,55 @@
+.header
+{
+    background-color: #fff;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .149);
+}
+
+
+
+.logo{
+    width:191px;
+    height:62px;
+    
+    
+}
+.mains
+{
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    transition: transform .3s ease;
+    font-family: IsidoraSans-SemiBold;
+    color: #002646;
+    font-size: 14px;
+    position: relative;
+    text-transform: uppercase;
+    display: flex;
+    gap: 7px;
+    
+    
+}
+.mains:focus,
+.mains:active {
+    color: #002646;
+     }
+
+.b1
+{
+border-radius: 0px;
+width: 200px;
+height: 45px;
+border: 1px solid #1B6AD5;
+color: #1B6AD5;
+font-weight:bold;
+
+}
+.b1:active{
+background-color:#1B6AD5;
+}
+
